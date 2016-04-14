@@ -4,7 +4,7 @@
 .header {
     background-image:url(pictures/blurred.jpg);
     background-position:center;
-    background-repeat: no-repeat;
+    background-repeat:repeat;
     color:black;
     text-align:center;
     padding:2.5%;
@@ -24,7 +24,7 @@
     border: 0px 2px;
     border-style:solid;
     border-color: white;
-    width:502px;
+    width:933px;
     height: 311px;
     float:left;
     padding: 0px 10px; 
