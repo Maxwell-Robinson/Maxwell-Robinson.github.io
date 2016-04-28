@@ -1,134 +1,22 @@
-.page-wrapper{
-    background-color: 
+.logo {
+    float: left;
+    display: inline;
+    padding-top: 1em;
 }
-.header {
-    background-image:url(pictures/blurred.jpg);
-    background-position:center;
-    background-repeat:repeat;
-    color:black;
-    text-align:center;
-    padding:2.5%;
-    border: 2px;
-    border-style: solid;
-    border-color: white;
-}
+
 .nav {
-    line-height:30px;
-    background-color:#F0F8AF;
-    height:300px;
-    width:200px;
-    float:left;
-    padding:1%;
-}
-.summary {
-    border: 0px 2px;
-    border-style:solid;
-    border-color: white;
-    width:933px;
-    height: 311px;
-    float:left;
-    padding: 0px 10px; 
-    background-color:#F5FCC9;
-}
-.footer {
-    background-color:#84A903;
-    color:white;
-    clear:both;
-    text-align:center;
-    padding:1%; 
-    border: 2px;
-    border-style: solid;
+    float: right;
+    display: inline;
+    padding-top: 2em;
+
 }
 
-.headerOne{
-    background-color:black;
-    color:white;
-    text-align:center;
-    padding:5px;
-}
-.navOne {
-    line-height:30px;
-    background-color:#eeeeee;
-    height:720px;
-    width:200px;
-    float:left;
-    padding:5px; 
-}
-.bodyOne {
-    width:900px;
-    float:left;
-    padding:10px; 
-}
-.footerOne {
-    background-color:black;
-    color:white;
-    clear:both;
-    text-align:center;
-    padding:5px; 
+ul, li {
+    list-style: none;
+    display: inline;
+    word-spacing: 1rem;
 }
 
-.headerTwo {
-    background-color:black;
-    color:white;
-    text-align:center;
-    padding:5px;
-}
-.navTwo {
-    line-height:30px;
-    background-color:#eeeeee;
-    height:500px;
-    width:200px;
-    float:left;
-    padding:5px; 
-}
-.bodyTwo {
-    width:900px;
-    float:left;
-    padding:10px; 
-}
-.footerTwo {
-    background-color:black;
-    color:white;
-    clear:both;
-    text-align:center;
-    padding:5px;
-}
-
-.headerThree {
-    background-image:url(pictures/blurred.jpg);
-    background-position:center;
-    background-repeat: repeat;
-    color:black;
-    text-align:center;
-    padding:2.5%;
-    border: 2px;
-    border-style: solid;
-    border-color: white;
-}
-.navThree {
-    line-height:30px;
-    background-color:#F0F8AF;
-    height:350px;
-    width:200px;
-    float:left;
-    padding:1%;
-}
-.summaryThree {
-    border: 0px 2px;
-    border-style:solid;
-    border-color: white;
-    width:933px;
-    height:370px;
-    float:left;
-    padding: 0px 10px; 
-    background-color:#F5FCC9;
-}
-.footerThree {
-    background-color:#84A903;
-    color:white;
-    clear:both;
-    text-align:center;
-    padding:1%; 
-    border: 2px;
-    border-style: solid;
+.one-third-col {
+    display: inline;
 }
