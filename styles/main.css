@@ -1,3 +1,4 @@
+
 .logo {
     float: left;
     display: inline;
@@ -19,4 +20,7 @@ ul, li {
 
 .one-third-col {
     display: inline;
+}
+.blog1body {
+    background: purple;
 }
