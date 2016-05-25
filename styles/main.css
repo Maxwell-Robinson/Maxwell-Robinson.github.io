@@ -1,3 +1,10 @@
+body {
+    background-image: url(../images/sayagata.png);
+}
+
+.head {
+
+}
 
 .logo {
     float: left;
@@ -20,7 +27,26 @@ ul, li {
 
 .one-third-col {
     display: inline;
+    }
+
+.section.blogs {
+    padding:0;
+    margin:0;
 }
-.blog1body {
-    background: purple;
+
+.row {
+    background:;
+    color: white;
+    padding: 0 1.7em;
+}
+
+.one-third-col {
+    padding: 0;
+}
+
+.twelve-col-footer{
+    padding: .5em;
+    background: black;
+    color:white;
+
 }
