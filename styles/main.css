@@ -3,7 +3,7 @@ body {
 }
 
 .head {
-
+    
 }
 
 .logo {
@@ -49,4 +49,17 @@ ul, li {
     background: black;
     color:white;
 
+}
+
+.blogtitle {
+    float: left;
+    display: inline;
+    padding-top: 1em;
+
+}
+
+.blogbody {
+    border-top: 1em;
+    border-bottom: 2em;
+    border-color: black;
 }
